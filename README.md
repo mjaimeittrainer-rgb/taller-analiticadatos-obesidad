@@ -29,7 +29,7 @@ Para responderla de forma rigurosa, el proyecto aborda un problema crítico en c
   * `pandas` (manipulación y limpieza de datos)
   * `matplotlib` & `seaborn` (visualización estadística y gráficos de calor/distribución)
   * `scikit-learn` (codificación, partición de datos, modelos de clasificación `RandomForestClassifier` y métricas)
-  * `ucimlrepo` (descarga automatizada desde el repositorio oficial de la UCI)[cite: 1]
+  * `ucimlrepo` (descarga automatizada desde el repositorio oficial de la UCI)
 
 ---
 
